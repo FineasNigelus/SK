@@ -1,0 +1,11 @@
+H:\Nowe\Pobrane\szyfrPlayfaira\bin\Debug\netcoreapp2.1\szyfrPlayfaira.deps.json
+H:\Nowe\Pobrane\szyfrPlayfaira\bin\Debug\netcoreapp2.1\szyfrPlayfaira.runtimeconfig.json
+H:\Nowe\Pobrane\szyfrPlayfaira\bin\Debug\netcoreapp2.1\szyfrPlayfaira.runtimeconfig.dev.json
+H:\Nowe\Pobrane\szyfrPlayfaira\bin\Debug\netcoreapp2.1\szyfrPlayfaira.dll
+H:\Nowe\Pobrane\szyfrPlayfaira\bin\Debug\netcoreapp2.1\szyfrPlayfaira.pdb
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.csprojAssemblyReference.cache
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.csproj.CoreCompileInputs.cache
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.AssemblyInfoInputs.cache
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.AssemblyInfo.cs
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.dll
+H:\Nowe\Pobrane\szyfrPlayfaira\obj\Debug\netcoreapp2.1\szyfrPlayfaira.pdb

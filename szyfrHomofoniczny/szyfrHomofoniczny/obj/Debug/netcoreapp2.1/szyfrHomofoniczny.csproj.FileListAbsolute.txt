@@ -1,0 +1,11 @@
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\bin\Debug\netcoreapp2.1\szyfrHomofoniczny.deps.json
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\bin\Debug\netcoreapp2.1\szyfrHomofoniczny.runtimeconfig.json
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\bin\Debug\netcoreapp2.1\szyfrHomofoniczny.runtimeconfig.dev.json
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\bin\Debug\netcoreapp2.1\szyfrHomofoniczny.dll
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\bin\Debug\netcoreapp2.1\szyfrHomofoniczny.pdb
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.csprojAssemblyReference.cache
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.csproj.CoreCompileInputs.cache
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.AssemblyInfoInputs.cache
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.AssemblyInfo.cs
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.dll
+H:\Nowe\Pobrane\szyfrHomofoniczny\szyfrHomofoniczny\obj\Debug\netcoreapp2.1\szyfrHomofoniczny.pdb
